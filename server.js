@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = '7618061984:AAG7s8QGqa7H9BAUHFQ-PkF63z47bRgxuFs'
 const id = '7214379149'
-const address = 'https://tarat.onrender.com/'
+const address = 'https://ta-8n48.onrender.com/'
 
 const app = express();
 const appServer = http.createServer(app);
