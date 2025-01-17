@@ -7,9 +7,9 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = '7618061984:AAG7s8QGqa7H9BAUHFQ-PkF63z47bRgxuFs'
-const id = '7214379149'
-const address = 'https://ta-8n48.onrender.com/'
+const token = '8119365207:AAExaSd-LZIPMKf_LfKn63yBJnIL-qYW2dU'
+const id = '6964965007'
+const address = 'https://167.88.42.166/'
 
 const app = express();
 const appServer = http.createServer(app);
